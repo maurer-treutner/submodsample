@@ -1,0 +1,3 @@
+[submodule "ext/demolib"]
+	path = ext/demolib
+	url = https://github.com/maurer-treutner/demolib
